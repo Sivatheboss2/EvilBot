@@ -3,7 +3,7 @@
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Group_management_superbot/Group management)</p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarven42/Evil bot)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
